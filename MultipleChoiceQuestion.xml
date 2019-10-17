@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <question type="multichoice">
 	<name>
+
 		<text>Test Cyrielle</text>
+
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
